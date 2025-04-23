@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SENAI\\source\\repos\\Prova23-04-2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6A3FA0-A524-441C-8E50-6EB2A4133C05}|Prova23-04-2025\\Prova23-04-2025.csproj|c:\\users\\senai\\source\\repos\\prova23-04-2025\\prova23-04-2025\\views\\produtosview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DF6A3FA0-A524-441C-8E50-6EB2A4133C05}|Prova23-04-2025\\Prova23-04-2025.csproj|solutionrelative:prova23-04-2025\\views\\produtosview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6A3FA0-A524-441C-8E50-6EB2A4133C05}|Prova23-04-2025\\Prova23-04-2025.csproj|c:\\users\\senai\\source\\repos\\prova23-04-2025\\prova23-04-2025\\views\\cadastrogerenciamentoprodutoview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DF6A3FA0-A524-441C-8E50-6EB2A4133C05}|Prova23-04-2025\\Prova23-04-2025.csproj|solutionrelative:prova23-04-2025\\views\\cadastrogerenciamentoprodutoview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6A3FA0-A524-441C-8E50-6EB2A4133C05}|Prova23-04-2025\\Prova23-04-2025.csproj|c:\\users\\senai\\source\\repos\\prova23-04-2025\\prova23-04-2025\\views\\registrodeavaliacaoview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DF6A3FA0-A524-441C-8E50-6EB2A4133C05}|Prova23-04-2025\\Prova23-04-2025.csproj|solutionrelative:prova23-04-2025\\views\\registrodeavaliacaoview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6A3FA0-A524-441C-8E50-6EB2A4133C05}|Prova23-04-2025\\Prova23-04-2025.csproj|c:\\users\\senai\\source\\repos\\prova23-04-2025\\prova23-04-2025\\viewmodels\\produtoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6A3FA0-A524-441C-8E50-6EB2A4133C05}|Prova23-04-2025\\Prova23-04-2025.csproj|solutionrelative:prova23-04-2025\\viewmodels\\produtoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdutoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI\\source\\repos\\Prova23-04-2025\\Prova23-04-2025\\ViewModels\\ProdutoViewModel.cs",
+              "RelativeDocumentMoniker": "Prova23-04-2025\\ViewModels\\ProdutoViewModel.cs",
+              "ToolTip": "C:\\Users\\SENAI\\source\\repos\\Prova23-04-2025\\Prova23-04-2025\\ViewModels\\ProdutoViewModel.cs",
+              "RelativeToolTip": "Prova23-04-2025\\ViewModels\\ProdutoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:11:57.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistroDeAvaliacaoView.xaml",
+              "DocumentMoniker": "C:\\Users\\SENAI\\source\\repos\\Prova23-04-2025\\Prova23-04-2025\\Views\\RegistroDeAvaliacaoView.xaml",
+              "RelativeDocumentMoniker": "Prova23-04-2025\\Views\\RegistroDeAvaliacaoView.xaml",
+              "ToolTip": "C:\\Users\\SENAI\\source\\repos\\Prova23-04-2025\\Prova23-04-2025\\Views\\RegistroDeAvaliacaoView.xaml",
+              "RelativeToolTip": "Prova23-04-2025\\Views\\RegistroDeAvaliacaoView.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T19:06:46.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CadastroGerenciamentoProdutoView.xaml",
+              "DocumentMoniker": "C:\\Users\\SENAI\\source\\repos\\Prova23-04-2025\\Prova23-04-2025\\Views\\CadastroGerenciamentoProdutoView.xaml",
+              "RelativeDocumentMoniker": "Prova23-04-2025\\Views\\CadastroGerenciamentoProdutoView.xaml",
+              "ToolTip": "C:\\Users\\SENAI\\source\\repos\\Prova23-04-2025\\Prova23-04-2025\\Views\\CadastroGerenciamentoProdutoView.xaml",
+              "RelativeToolTip": "Prova23-04-2025\\Views\\CadastroGerenciamentoProdutoView.xaml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEkAAAD5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T19:05:45.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutosView.xaml",
+              "DocumentMoniker": "C:\\Users\\SENAI\\source\\repos\\Prova23-04-2025\\Prova23-04-2025\\Views\\ProdutosView.xaml",
+              "RelativeDocumentMoniker": "Prova23-04-2025\\Views\\ProdutosView.xaml",
+              "ToolTip": "C:\\Users\\SENAI\\source\\repos\\Prova23-04-2025\\Prova23-04-2025\\Views\\ProdutosView.xaml",
+              "RelativeToolTip": "Prova23-04-2025\\Views\\ProdutosView.xaml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T19:05:25.154Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

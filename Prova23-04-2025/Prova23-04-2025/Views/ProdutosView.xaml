@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Prova23_04_2025.Views.ProdutosView"
+             Title="ProdutosView">
+    <VerticalStackLayout>
+
+        <HorizontalStackLayout HorizontalOptions="Center" VerticalOptions="Center" Spacing="5">
+            <Image Source="hamburger_icon_64px.png" HeightRequest="50" Margin="4,0,4,0" VerticalOptions="Center" HorizontalOptions="Center"/>
+            <Label Text="Buscar Produto" VerticalOptions="Center" HorizontalOptions="Center">
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Command="{Binding IrParaBuscaCommand}" />
+                </Label.GestureRecognizers>
+            </Label>
+            <Entry Placeholder="Termos de busca" VerticalOptions="Center" HorizontalOptions="Center"/>
+            <Button Text="Gerenciamento" Margin="4,0,4,0" VerticalOptions="Center" HorizontalOptions="Center" />
+        </HorizontalStackLayout>
+
+        <CollectionView ItemsSource="{Binding Produto}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Border>
+                        <VerticalStackLayout>
+                            <Image Source="{Binding Imagem}" />
+                            <Label Text="{Binding Nome}" />
+                            <Label Text="{Binding Categoria}" />
+                            <Label Text="{Binding Sucategoria}" />
+                            <Label Text="{Binding NomeEmpresaFabricante}" />
+                            <Label Text="{Binding CodigoProduto}" />
+                            <Label Text="{Binding Descricao}" />
+                            <Label Text="{Binding CodigoProduto}" />
+                            <Label Text="{Binding PrecoSugerido}" />
+                        </VerticalStackLayout>
+                    </Border>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </VerticalStackLayout>
+</ContentPage>

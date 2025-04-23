@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Prova23_04_2025.Views.CadastroGerenciamentoProdutoView"
+             xmlns:viewmodel="clr-namespace:Prova23_04_2025.ViewModels"
+             Title="CadastroGerenciamentoProdutoView">
+    <VerticalStackLayout>
+
+        <HorizontalStackLayout HorizontalOptions="Center" VerticalOptions="Center" Spacing="5">
+            <Image Source="hamburger_icon_64px.png" HeightRequest="50" Margin="4,0,4,0" VerticalOptions="Center" HorizontalOptions="Center"/>
+            <Label Text="Buscar Produto" VerticalOptions="Center" HorizontalOptions="Center"> 
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Command="{Binding IrParaBuscaCommand}" />
+                </Label.GestureRecognizers>
+            </Label>
+            <Entry Placeholder="Termos de busca" VerticalOptions="Center" HorizontalOptions="Center"/>
+            <Button Text="Gerenciamento" Margin="4,0,4,0" VerticalOptions="Center" HorizontalOptions="Center" />
+        </HorizontalStackLayout>
+
+        <VerticalStackLayout HorizontalOptions="Center" VerticalOptions="Center" Spacing="15" Margin="10">
+            <HorizontalStackLayout HorizontalOptions="Center" VerticalOptions="Center">
+                <Label Text="Nome do produto" VerticalOptions="Center"  HorizontalOptions="Center"/>
+                <Entry Text="{Binding Nome}" VerticalOptions="Center"  HorizontalOptions="Center" WidthRequest="200"/>
+            </HorizontalStackLayout>
+
+            <HorizontalStackLayout HorizontalOptions="Center" VerticalOptions="Center">
+                <Label Text="Categoria do produto"  VerticalOptions="Center"  HorizontalOptions="Center"/>
+                <Entry Text="{Binding Categoria}"  VerticalOptions="Center"  HorizontalOptions="Center" WidthRequest="200"/>
+            </HorizontalStackLayout>
+
+            <HorizontalStackLayout HorizontalOptions="Center" VerticalOptions="Center">
+                <Label Text="Subcategoria do produto"  VerticalOptions="Center"  HorizontalOptions="Center"/>
+                <Entry Text="{Binding Subcategoria}"  VerticalOptions="Center"  HorizontalOptions="Center" WidthRequest="200"/>
+            </HorizontalStackLayout>
+
+            <HorizontalStackLayout HorizontalOptions="Center" VerticalOptions="Center">
+                <Label Text="Nome da empresa fabricante"  VerticalOptions="Center"  HorizontalOptions="Center"/>
+                <Entry Text="{Binding NomeEmpresaFabricante}"  VerticalOptions="Center"  HorizontalOptions="Center" WidthRequest="200"/>
+            </HorizontalStackLayout>
+
+            <HorizontalStackLayout HorizontalOptions="Center" VerticalOptions="Center">
+                <Label Text="Código do produto"  VerticalOptions="Center"  HorizontalOptions="Center"/>
+                <Entry Text="{Binding CodigoProduto}"  VerticalOptions="Center"  HorizontalOptions="Center" WidthRequest="200"/>
+            </HorizontalStackLayout>
+
+            <HorizontalStackLayout HorizontalOptions="Center" VerticalOptions="Center">
+                <Label Text="Preço sugerido"  VerticalOptions="Center"  HorizontalOptions="Center" />
+                <Entry Text="{Binding PrecoSugerido}"  VerticalOptions="Center"  HorizontalOptions="Center" WidthRequest="200"/>
+            </HorizontalStackLayout>
+
+            <HorizontalStackLayout HorizontalOptions="Center" VerticalOptions="Center">
+                <Label Text="Descrição do produto"  VerticalOptions="Center"  HorizontalOptions="Center" />
+                <Entry Text="{Binding Descricao}"  VerticalOptions="Center"  HorizontalOptions="Center" WidthRequest="200" />
+            </HorizontalStackLayout>
+
+            <HorizontalStackLayout HorizontalOptions="Center" VerticalOptions="Center">
+                <Button Text="Finalizar cadastro" Command="{Binding CadastrarProdutoCommand}" VerticalOptions="Center"  HorizontalOptions="Center"/>
+            </HorizontalStackLayout>
+
+            <VerticalStackLayout>
+                <Label VerticalOptions="Center" HorizontalOptions="Center" Text="Produtos cadastrados" />
+
+                <CollectionView ItemsSource="{Binding Produtos}">
+                    <CollectionView.EmptyView>
+                        <Label HorizontalOptions="Center" VerticalOptions="Center" Text="Nenhum produto cadastrado!"/>
+                    </CollectionView.EmptyView>
+                    
+                    <CollectionView.ItemTemplate>
+                        <DataTemplate>
+                            <Border>
+                                <VerticalStackLayout>
+                                    <VerticalStackLayout.GestureRecognizers>
+                                        <TapGestureRecognizer
+                                            Command="{Binding Source={RelativeSource AncestorType={x:Type viewmodel:CadastroGerenciamentoProdutoViewModel}}, x:DataType=viewmodel:CadastroGerenciamentoProdutoViewModel, Path=IrParaProdutoDetalheCommand}"
+                                            CommandParameter="{Binding .}"/>
+                                    </VerticalStackLayout.GestureRecognizers>
+                                    <Image Source="{Binding Imagem}" />
+                                    <Label Text="{Binding Nome}" />
+                                    <Label Text="{Binding Categoria}" />
+                                    <Label Text="{Binding Sucategoria}" />
+                                    <Label Text="{Binding NomeEmpresaFabricante}" />
+                                    <Label Text="{Binding CodigoProduto}" />
+                                    <Label Text="{Binding Descricao}" />
+                                    <Label Text="{Binding CodigoProduto}" />
+                                    <Label Text="{Binding PrecoSugerido}" />
+                                </VerticalStackLayout>
+                            </Border>
+                        </DataTemplate>
+                    </CollectionView.ItemTemplate>
+                </CollectionView>
+            </VerticalStackLayout>
+        </VerticalStackLayout>
+        
+
+    </VerticalStackLayout>
+</ContentPage>
