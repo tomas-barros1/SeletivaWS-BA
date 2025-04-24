@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SENAI\\source\\repos\\Avaliare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E28E197D-5E07-4498-BCB3-B859900261FA}|Avaliare\\Avaliare.csproj|c:\\users\\senai\\source\\repos\\avaliare\\avaliare\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28E197D-5E07-4498-BCB3-B859900261FA}|Avaliare\\Avaliare.csproj|solutionrelative:avaliare\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28E197D-5E07-4498-BCB3-B859900261FA}|Avaliare\\Avaliare.csproj|c:\\users\\senai\\source\\repos\\avaliare\\avaliare\\busca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28E197D-5E07-4498-BCB3-B859900261FA}|Avaliare\\Avaliare.csproj|solutionrelative:avaliare\\busca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28E197D-5E07-4498-BCB3-B859900261FA}|Avaliare\\Avaliare.csproj|c:\\users\\senai\\source\\repos\\avaliare\\avaliare\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28E197D-5E07-4498-BCB3-B859900261FA}|Avaliare\\Avaliare.csproj|solutionrelative:avaliare\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28E197D-5E07-4498-BCB3-B859900261FA}|Avaliare\\Avaliare.csproj|c:\\users\\senai\\source\\repos\\avaliare\\avaliare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28E197D-5E07-4498-BCB3-B859900261FA}|Avaliare\\Avaliare.csproj|solutionrelative:avaliare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28E197D-5E07-4498-BCB3-B859900261FA}|Avaliare\\Avaliare.csproj|C:\\Users\\SENAI\\source\\repos\\Avaliare\\avaliare\\avaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E28E197D-5E07-4498-BCB3-B859900261FA}|Avaliare\\Avaliare.csproj|solutionrelative:avaliare\\avaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28E197D-5E07-4498-BCB3-B859900261FA}|Avaliare\\Avaliare.csproj|C:\\Users\\SENAI\\source\\repos\\Avaliare\\avaliare\\busca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E28E197D-5E07-4498-BCB3-B859900261FA}|Avaliare\\Avaliare.csproj|solutionrelative:avaliare\\busca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28E197D-5E07-4498-BCB3-B859900261FA}|Avaliare\\Avaliare.csproj|c:\\users\\senai\\source\\repos\\avaliare\\avaliare\\busca.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28E197D-5E07-4498-BCB3-B859900261FA}|Avaliare\\Avaliare.csproj|solutionrelative:avaliare\\busca.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28E197D-5E07-4498-BCB3-B859900261FA}|Avaliare\\Avaliare.csproj|c:\\users\\senai\\source\\repos\\avaliare\\avaliare\\avaliacao.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28E197D-5E07-4498-BCB3-B859900261FA}|Avaliare\\Avaliare.csproj|solutionrelative:avaliare\\avaliacao.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAOYUAAAAAAAAAAAgwPMUAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-04-24T19:07:01.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI\\source\\repos\\Avaliare\\Avaliare\\Produto.cs",
+              "RelativeDocumentMoniker": "Avaliare\\Produto.cs",
+              "ToolTip": "C:\\Users\\SENAI\\source\\repos\\Avaliare\\Avaliare\\Produto.cs",
+              "RelativeToolTip": "Avaliare\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T19:00:59.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI\\source\\repos\\Avaliare\\Avaliare\\Program.cs",
+              "RelativeDocumentMoniker": "Avaliare\\Program.cs",
+              "ToolTip": "C:\\Users\\SENAI\\source\\repos\\Avaliare\\Avaliare\\Program.cs",
+              "RelativeToolTip": "Avaliare\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T19:00:59.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Avaliacao.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\SENAI\\source\\repos\\Avaliare\\Avaliare\\Avaliacao.cs",
+              "RelativeDocumentMoniker": "Avaliare\\Avaliacao.cs",
+              "ToolTip": "C:\\Users\\SENAI\\source\\repos\\Avaliare\\Avaliare\\Avaliacao.cs [Projeto]",
+              "RelativeToolTip": "Avaliare\\Avaliacao.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:56:10.274Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Busca.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\SENAI\\source\\repos\\Avaliare\\Avaliare\\Busca.cs",
+              "RelativeDocumentMoniker": "Avaliare\\Busca.cs",
+              "ToolTip": "C:\\Users\\SENAI\\source\\repos\\Avaliare\\Avaliare\\Busca.cs [Projeto]",
+              "RelativeToolTip": "Avaliare\\Busca.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:51:47.646Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Busca.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI\\source\\repos\\Avaliare\\Avaliare\\Busca.cs",
+              "RelativeDocumentMoniker": "Avaliare\\Busca.cs",
+              "ToolTip": "C:\\Users\\SENAI\\source\\repos\\Avaliare\\Avaliare\\Busca.cs",
+              "RelativeToolTip": "Avaliare\\Busca.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:48:57.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI\\source\\repos\\Avaliare\\Avaliare\\Form1.cs",
+              "RelativeDocumentMoniker": "Avaliare\\Form1.cs",
+              "ToolTip": "C:\\Users\\SENAI\\source\\repos\\Avaliare\\Avaliare\\Form1.cs",
+              "RelativeToolTip": "Avaliare\\Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwCEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T16:58:16.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Busca.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI\\source\\repos\\Avaliare\\Avaliare\\Busca.Designer.cs",
+              "RelativeDocumentMoniker": "Avaliare\\Busca.Designer.cs",
+              "ToolTip": "C:\\Users\\SENAI\\source\\repos\\Avaliare\\Avaliare\\Busca.Designer.cs",
+              "RelativeToolTip": "Avaliare\\Busca.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T19:01:06.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Avaliacao.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI\\source\\repos\\Avaliare\\Avaliare\\Avaliacao.Designer.cs",
+              "RelativeDocumentMoniker": "Avaliare\\Avaliacao.Designer.cs",
+              "ToolTip": "C:\\Users\\SENAI\\source\\repos\\Avaliare\\Avaliare\\Avaliacao.Designer.cs",
+              "RelativeToolTip": "Avaliare\\Avaliacao.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T19:01:08.582Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
